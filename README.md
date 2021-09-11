@@ -12,3 +12,4 @@
 ## Links for Research
 * Deep Neural Networks for Time Series + Sequence Modeling: https://www.codemotion.com/magazine/video/deep-neural-networks/
 * Attention & Memory in deep learning: 
+* Wallabot Python API: https://api.walabot.com/_project.html
