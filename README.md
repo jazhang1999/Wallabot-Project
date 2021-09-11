@@ -5,6 +5,7 @@
 
 ## Roadmap
 * Decide upon which classes (identifiers) we want to test for (will require us to actually look into the items)
+* (Potentially) print a 3D mount for wallabot so we can accurately take measurements
 * Figure out how we are getting the data from Wallabot (look into Python libraries for Wallabot)
 * Understand the theoretics behind turning the output of the Wallabot into a form that we can use as input for a classification algorithm
 
